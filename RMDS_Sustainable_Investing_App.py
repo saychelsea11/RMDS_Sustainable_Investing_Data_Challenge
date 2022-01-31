@@ -314,7 +314,7 @@ fig3.add_trace(go.Bar(
 fig3.add_trace(go.Box(
     x=df['Morningstar Sustainability Rating'],
     y=df['1 Year Annualized (%)'],
-    name = '1-Year Return',
+    name = '1-Year Return - All Funds',
     ),row=1,col=4)
 '''
 fig3.add_trace(go.Box(
