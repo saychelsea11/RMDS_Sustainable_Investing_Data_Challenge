@@ -6,7 +6,7 @@
 - *Supporting_functions.py*: Dependency containing helper functions
 
 ### **Data** 
-- funds.csv
+- *funds.csv*
 
 ### **Output data**
 - *Sustainable_funds.csv*: In the 'Output' folder
