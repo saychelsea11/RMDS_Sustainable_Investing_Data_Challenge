@@ -1,10 +1,15 @@
 # RMDS_Sustainable_Investing_Data_Challenge
 
 ### **Code**
-- RMDS_Sustainable_Investing_App.py: Main Python file
+- *RMDS_Sustainable_Investing_App.py*: Main Python file
 -- Set the path variable to the location of the input data
-- Supporting_functions.py: Dependency containing helper functions
-- Data: funds.csv
+- *Supporting_functions.py*: Dependency containing helper functions
+
+### **Data** 
+- funds.csv
+
+### **Output data**
+- *Sustainable_funds.csv*: In the 'Output' folder
 
 ### **Execution** 
 When the above Python file is run, the Dash server deploying the dashboard will become active
